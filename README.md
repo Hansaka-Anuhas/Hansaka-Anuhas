@@ -1,7 +1,5 @@
-## Hi There 👋
-
-### I'm Noob TG Bot Developer 🤖
+![Typing Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+My+Friends!;I'm+Noob+TG+Bot+Developer!;I'm+17+Years+Old!;I'm+From+In+Sri+Lanka!)
 
 [![Telegram Badge](https://img.shields.io/badge/Hansaka-Anuhas-30302f?style=flat&logo=telegram)](https://t.me/Hansaka_Anuhas)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Hansaka-Anuhas&show_icons=true&include_all_commits=true&cache_seconds=86400&theme=radica)
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=Hansaka-Anuhas)
